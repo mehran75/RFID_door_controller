@@ -19,7 +19,9 @@ this is a simple door controller I build for my house!
 
 # Circuit Diagram 
 
-![Relay circuit diagram](Images/Screenshot_20200313_195059.png | width=200)
+![Relay circuit diagram](Images/Screenshot_20200313_195059.png)
+
+drew in www.circuit-diagram.org
 
 
 
